@@ -6,19 +6,22 @@
 
 + flow-demo页面
 
-![image-20200727143701413](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200727143701413.png)
+![flow-demo页面](https://images.gitee.com/uploads/images/2020/0727/152852_fced1fc1_5149688.png "image-20200727143701413.png")
+
 
 + 流程图绘制
 
-![image-20200727150744187](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200727150744187.png)
+![流程图绘制](https://images.gitee.com/uploads/images/2020/0727/152928_e32181d7_5149688.png "image-20200727150744187.png")
+
 
 + 鼠标右键功能，同时支持Ctrl+C复制、Ctrl+V粘贴、Ctrl+Z撤销、Ctrl+Shift+Z恢复等快捷键
 
-![image-20200727151209150](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20200727151209150.png)
+![鼠标右键功能](https://images.gitee.com/uploads/images/2020/0727/153000_37d68ebc_5149688.png "image-20200727151209150.png")
+
 
 + 图形旋转功能
 
-![1](C:\Users\Administrator\Pictures\Saved Pictures\1.gif)
+![图形旋转功能](https://images.gitee.com/uploads/images/2020/0727/153040_deeaed44_5149688.gif "1.gif")
 
 
 
@@ -37,4 +40,5 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+
 
